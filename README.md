@@ -95,18 +95,6 @@ npm run serve
 
 ---
 
-## 📷 Demonstração (exemplo ilustrativo)
-
-| Tela Inicial | Cadastrar Tarefa |
-|---------------|------------------|
-| ![Tela Inicial](https://picsum.photos/300/180?1) | ![Cadastro](https://picsum.photos/300/180?2) |
-
-| Listagem de Tarefas | Edição |
-|----------------------|--------|
-| ![Listagem](https://picsum.photos/300/180?3) | ![Edição](https://picsum.photos/300/180?4) |
-
----
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível consolidar conhecimentos sobre:
@@ -120,8 +108,7 @@ Durante o desenvolvimento deste projeto, foi possível consolidar conhecimentos 
 ## 👨‍💻 Autor
 
 **Caio Claudino Venancio**  
-Estudante de Análise e Desenvolvimento de Sistemas — Fema  
-💻 [GitHub](https://github.com/CaioClaudino)  
+Estudante de Análise e Desenvolvimento de Sistemas — Fema 
 
 ---
 
